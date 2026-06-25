@@ -1,5 +1,26 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>- Crafting beautiful and interactive web experiences<br>- Building projects that combine AI with modern web technologies<br>- Pushing my LeetCode rating higher every day<br><br>👯 I’m looking to collaborate on<br>- Innovative Web Apps<br>- AI-powered Projects<br>- Open Source<br><br>🤝 I’m looking for help with<br>- Large-scale Full Stack Applications<br>- System Design<br>- AI Engineering<br><br>🌱 I’m currently learning<br>- Next.js<br>- TypeScript<br>- Three.js<br>- LLM APIs<br><br>💬 Ask me about<br>- C++<br>- DSA<br>- React<br>- Frontend Development<br>- GitHub<br><br>⚡ Fun fact<br>- I love making websites that look as good as they perform.
+# 💫 About Me
+
+🔭 I'm currently building **full-stack web applications**, creating **interactive user experiences**, and exploring **AI-powered solutions**.
+
+🌱 **Currently Learning**
+
+* Next.js
+* TypeScript
+* Three.js
+* LLM APIs
+
+👯 I'm always open to collaborating on **Open Source**, **Full-Stack Web Applications**, and **AI Projects**.
+
+💬 **Ask me about**
+
+* C++
+* Data Structures & Algorithms
+* React
+* Frontend Development
+* Git & GitHub
+
+⚡ Outside of development, I enjoy solving **LeetCode** problems and turning creative ideas into polished web experiences.
+
 
 
 ## 🌐 Socials:
