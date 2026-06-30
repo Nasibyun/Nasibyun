@@ -90,9 +90,9 @@
 ### 📚 Other
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nasibyun&show_icons=true&theme=dark&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=Nasibyun&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasibyun&layout=compact&theme=dark)
+![](https://github-readme-stats.shion.dev/api?username=Nasibyun&show_icons=true&theme=dark&include_all_commits=true&count_private=true)br/>
+![](https://streak-stats.demolab.com/?user=Nasibyun&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=Nasibyun&theme=dark&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nasibyun&theme=radical&no-frame=false&no-bg=true&margin-w=4)
