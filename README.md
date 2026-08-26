@@ -91,7 +91,7 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Nasibyun&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=Nasibyun&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com?user=Nasibyun&theme=dark)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nasibyun&layout=compact&theme=dark)
 
 ## 🏆 GitHub Trophies
